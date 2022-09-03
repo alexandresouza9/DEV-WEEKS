@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj": {}
+    "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\Fundamentos\\ExemploFundamentos\\Fundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj": {
+    "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\Fundamentos\\ExemploFundamentos\\Fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
-        "projectName": "aula-um-de-dev-week",
-        "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\Fundamentos\\ExemploFundamentos\\Fundamentos.csproj",
+        "projectName": "Fundamentos",
+        "projectPath": "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\Fundamentos\\ExemploFundamentos\\Fundamentos.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\Fundamentos\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

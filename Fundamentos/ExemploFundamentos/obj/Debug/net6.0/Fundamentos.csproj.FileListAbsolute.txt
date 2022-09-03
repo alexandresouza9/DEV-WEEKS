@@ -13,3 +13,11 @@ C:\Users\alexa\Documents\Github\DEV-WEEKS\Fundamentos\obj\Debug\net6.0\refint\Fu
 C:\Users\alexa\Documents\Github\DEV-WEEKS\Fundamentos\obj\Debug\net6.0\Fundamentos.pdb
 C:\Users\alexa\Documents\Github\DEV-WEEKS\Fundamentos\obj\Debug\net6.0\Fundamentos.genruntimeconfig.cache
 C:\Users\alexa\Documents\Github\DEV-WEEKS\Fundamentos\obj\Debug\net6.0\ref\Fundamentos.dll
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfo.cs
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\Fundamentos.dll
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\refint\Fundamentos.dll
+C:\Users\alexa\Documents\GitHub\Bootcamps\DEV-WEEKS\DEV-WEEKS\Fundamentos\ExemploFundamentos\obj\Debug\net6.0\Fundamentos.pdb
