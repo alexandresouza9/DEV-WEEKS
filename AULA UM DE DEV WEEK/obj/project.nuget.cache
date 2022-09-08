@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iYMMGXgsj1I8SONIfAYynMVrVU1LzBqjIDmoiXycZ5a+tdtpsx00Keq+NnlF9vSOlmkC+TTfvdmlY3hLa0VaPw==",
+  "dgSpecHash": "Aaixmpw37oQ8IsB5ku9DrCWuaaQZJPp/z0ygXZwFfrpi22RPMf9kbTEPZp6P7O68pClXZJIc09KAWmFuRJVzNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
+  "projectFilePath": "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

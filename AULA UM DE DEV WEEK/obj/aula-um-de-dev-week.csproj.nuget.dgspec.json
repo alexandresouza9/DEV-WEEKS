@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj": {}
+    "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj": {
+    "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
+        "projectUniqueName": "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
         "projectName": "aula-um-de-dev-week",
-        "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
+        "projectPath": "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\aula-um-de-dev-week.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\obj\\",
+        "outputPath": "c:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\DEV-WEEKS\\DEV-WEEKS\\AULA UM DE DEV WEEK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
